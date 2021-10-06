@@ -1,0 +1,21 @@
+{
+    "serial": "9",
+    "numeroInterno": 1,
+    "tipo": "prueba",
+    "descripcion": "prueba",
+    "peso": 1.0,
+    "alto": 1.0,
+    "ancho": 1.0,
+    "largo": 1.0,
+    "valorCompra": 1.0,
+    "fechaCompra": "2020-09-18T05:00:00.000+00:00",
+    "fechaBaja": "2020-09-18T05:00:00.000+00:00",
+    "estadoActual": {
+        "id": 1
+    },
+    "persona": null,
+    "area": {
+        "id": 4
+    },
+    "color": "azul"
+}
